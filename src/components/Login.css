@@ -1,0 +1,46 @@
+.wrapper{
+    background-color: #292c3c	;
+    width:10%;
+    height:25%;
+    padding:20px 30px;
+    border-radius: 5px;
+    box-shadow: 5px 5px #222431 ;
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-70%);
+
+}
+
+.loginTxt{
+    color:#ea999c;
+}
+
+.txtInput{
+    padding:7px 0;
+    margin:5px 0;
+    width: 100%;
+    border-radius: 5px;
+    font-family: 'Poppins', sans-serif;
+    background-color: #eff1f5;
+    border:none;
+    color:#292c3c;
+}
+
+
+.loginBtn{
+    padding:10px 0;
+    margin: 15px 0;
+    width: 100%;
+    border:none;
+    border-radius: 5px;
+    font-family: 'Poppins', sans-serif;
+    color:white;
+    background-color:#ea999c;
+}
+
+.txtLabels{
+    color:white;
+    text-align: start;
+    margin:5px 0;
+}
