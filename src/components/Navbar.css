@@ -1,0 +1,21 @@
+.header-wrapper{
+    margin:50px;
+}
+
+nav{
+    background-color:#ea999c;
+    padding:30px;
+    border-radius:20px;
+    box-shadow:5px 5px #bd6d6f;
+}
+
+.navlinks{
+    text-decoration: none;
+    color:white;
+    margin:50px;
+}
+
+.navlinks:hover{
+    border-bottom: 3px solid white;
+    transition:0.1s ease;
+}

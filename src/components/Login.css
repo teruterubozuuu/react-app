@@ -1,6 +1,6 @@
 .wrapper{
     background-color: #292c3c	;
-    width:10%;
+    width:15%;
     height:25%;
     padding:20px 30px;
     border-radius: 5px;
@@ -37,6 +37,7 @@
     font-family: 'Poppins', sans-serif;
     color:white;
     background-color:#ea999c;
+    cursor:pointer;
 }
 
 .txtLabels{
