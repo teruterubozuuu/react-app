@@ -7,7 +7,7 @@ function Homepage(){
       <>
         <Navbar />
         <div>
-          <h1 className="headerHomepage">Welcome!</h1>
+          <h1 className="headerHomepage">Welcome to The Quad!</h1>
           <img src={welcomeGIF}/>
           <p class="textcontent">
             Lorem ipsum odor amet, consectetuer adipiscing elit. Tempus ex
